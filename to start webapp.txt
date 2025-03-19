@@ -1,0 +1,33 @@
+# Install Ganache CLI globally
+npm install -g ganache
+
+# Run Ganache CLI
+npx ganache --port 7545
+
+# Navigate to your project root directory
+cd /path/to/your/project
+
+# Install Truffle if not already installed
+npm install -g truffle
+
+# Deploy the contract
+truffle migrate --reset
+
+# Navigate to the server directory
+cd server
+
+# Install dependencies (if not already installed)
+pip install -r requirements.txt
+
+# Run the Flask server
+python main.py
+
+
+# Navigate to the client directory
+cd client
+
+# Install dependencies (if not already installed)
+npm install
+
+# Start the React development server
+npm run dev
