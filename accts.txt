@@ -1,0 +1,9 @@
+student1@example.com / password: student1
+student2@example.com / password: student2
+student3@example.com / password: student3
+student4@example.com / password: student4
+student5@example.com / password: student5
+
+
+teacher@email.com
+teacher
